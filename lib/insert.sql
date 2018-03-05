@@ -5,5 +5,4 @@ INSERT INTO bears (name) VALUES
         ('Melissa'),
         ('Ginch'),
         ('Wwndy'),
-        (NULL)
-;
+        (NULL);
