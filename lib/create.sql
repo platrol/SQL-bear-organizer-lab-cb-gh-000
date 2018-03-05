@@ -1,4 +1,4 @@
-CRATE TABLE bears (
+CREATE TABLE bears (
   id INTIGER PRIMARY KEY,
   name  TEXT,
   age INTIGER,
